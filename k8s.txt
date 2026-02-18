@@ -1,1 +1,0 @@
-Kubernetes is a container platform that manages containers at scale.
